@@ -297,12 +297,15 @@ help.every1dns.net
 historyofdota.com
 historyofdota.net
 historyofdota.org
+html-classic.itch.zone
 i.instagram.com
 images-amazon.com
+img.itch.zone
 img.wzstats.gg
 instagram.com
 instituteofwar.org
 isbgpsafeyet.com
+itch.io
 j.dejure.org
 jetblue.com
 latest.live.dbd.bhvronline.com
