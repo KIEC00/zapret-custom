@@ -1,4 +1,3 @@
-
 7tv.app
 7tv.io
 amazonaws.com
@@ -45,7 +44,12 @@ discordpartygames.com
 discordsays.com
 discordsez.com
 discordstatus.com
+dnschecker.org
 encryptedsni.com
 ffzap.com
 frankerfacez.com
+html-classic.itch.zone
+img.itch.zone
+itch.io
 localizeapi.com
+rezka.ag
