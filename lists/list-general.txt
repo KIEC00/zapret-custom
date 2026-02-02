@@ -53,3 +53,5 @@ img.itch.zone
 itch.io
 localizeapi.com
 rezka.ag
+xdaforums.com
+xda-developers.com
