@@ -1,7 +1,11 @@
 7tv.app
 7tv.io
-amazonaws.com
+a-v2.sndcdn.com
+al.sndcdn.com
+assets.web.soundcloud.cloud
 betterttv.net
+cdninstagram.com
+cf-hls-media.sndcdn.com
 cloudflare-ech.com
 cloudflareaccess.com
 cloudflareapps.com
@@ -46,6 +50,7 @@ discordsez.com
 discordstatus.com
 dnschecker.org
 encryptedsni.com
+fbcdn.net
 ffzap.com
 frankerfacez.com
 html-classic.itch.zone
@@ -53,5 +58,5 @@ img.itch.zone
 itch.io
 localizeapi.com
 rezka.ag
-xdaforums.com
 xda-developers.com
+xdaforums.com
